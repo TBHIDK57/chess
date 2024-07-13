@@ -1,6 +1,7 @@
 # C++ Chess Game
 
-![image](https://github.com/user-attachments/assets/b362b028-befe-420b-8888-b1917a3ea10f)
+![image_2024-07-13_090715790](https://github.com/user-attachments/assets/ec90c511-a95a-4ad1-8b8a-de77219c4a0d)
+
 
 This is a chess game implemented in C++ using the SFML library for graphics and MySQL for user authentication. The game features a graphical user interface, move validation, and the ability to save and load game states. This project is designed for Linux systems.
 
