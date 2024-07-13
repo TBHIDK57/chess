@@ -5,7 +5,17 @@
 
 This is a chess game implemented in C++ using the SFML library for graphics and MySQL for user authentication. The game features a graphical user interface, move validation, and the ability to save and load game states. This project is designed for Linux systems.
 
-## Features
+## OOP Features
+
+- Inheritence
+- Abstraction
+- Polymorphism
+- Encapsulation
+- Composition
+- Operator Overloading
+- Templates
+
+## Game Features
 
 - Graphical user interface using SFML
 - User authentication system using MySQL database
