@@ -71,7 +71,7 @@ To compile and run the game, follow these steps:
 
 2. **Clone this repository to your local machine:**
    ```sh
-   git clone https://github.com/IlluminateDreamer/chess.git
+   git clone https://github.com/TBHIDK57/chess.git
    cd chess
    ```
 3. **Compile and run the code:**
