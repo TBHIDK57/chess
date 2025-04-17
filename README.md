@@ -1,4 +1,4 @@
-# C++ Chess Game
+# C++ Chess Game (OOP 2nd semester project)
 
 ![image_2024-07-13_090715790](https://github.com/user-attachments/assets/ec90c511-a95a-4ad1-8b8a-de77219c4a0d)
 
